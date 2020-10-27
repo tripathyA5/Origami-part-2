@@ -1,0 +1,10 @@
+.plane{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.swan{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
